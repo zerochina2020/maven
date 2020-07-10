@@ -13,7 +13,7 @@
     <version>0.1.1</version>
 
     <name>basic data</name>
-    <description>汇联易基础数据对接工具</description>
+    <description>汇联易基础数据集成工具</description>
 
     <dependencies>
         <dependency>
@@ -152,11 +152,6 @@
         </plugins>
     </build>
     <distributionManagement>
-        <!--<repository>
-            <id>nexus</id>
-            <name>Releases</name>
-            <url>https://nexus.huilianyi.com/repository/maven-releases</url>
-        </repository>-->
         <repository>
             <id>github</id>
             <url>file:/Users/jiaquan/Development/me/maven</url>
