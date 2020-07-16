@@ -163,6 +163,5 @@
             <id>github</id>
             <url>file:/Users/jiaquan/Development/me/maven</url>
         </repository>
-
     </distributionManagement>
 </project>
